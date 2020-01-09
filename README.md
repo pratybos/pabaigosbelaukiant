@@ -1,7 +1,7 @@
 # pabaigosbelaukiant
 ## Shield Protection applikacija
 ## !!!Svarbu!!!
-Kadangi nemoku naudotis GitHub'u ir 3rd party git GUI Clientas reikalauja repository owner permission, projekt1 galima rasti: https://github.com/LuciferBlade/Mobiliosios-Copu 
+Kadangi nemoku naudotis GitHub'u ir 3rd party Git GUI klientas GitKraken reikalauja repository owner permission, projektč galima rasti: https://github.com/LuciferBlade/Mobiliosios-Copu 
 ### Projekto nariai:
 Mindaugas Burvys PI17C (darė viską)
 ### Projekto tema
